@@ -18,6 +18,7 @@ is_learning_r
 # 2. Load the sample CSV from this repo
 sales <- read_csv("data/sales.csv")
 
+
 # 3. Inspect the data
 glimpse(sales)
 head(sales)
