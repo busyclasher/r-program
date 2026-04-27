@@ -1,0 +1,9 @@
+Sales Insights Summary
+======================
+
+Rows analyzed: 24
+Total units sold: 581
+Total revenue: 1330.15
+Average sale revenue: 55.42
+Best region: North
+Best category: Notebook
